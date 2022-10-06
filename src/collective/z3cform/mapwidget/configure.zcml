@@ -42,7 +42,7 @@
       factory=".widget.MapFieldWidget"
       for=".field.IWKT
            z3c.form.interfaces.IFormLayer"
-      />
+  />
 
   <!-- Register ShapeDisplayLayer only for IFormMapWidget -->
   <adapter
